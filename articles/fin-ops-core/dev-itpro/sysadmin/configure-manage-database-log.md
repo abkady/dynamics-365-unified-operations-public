@@ -68,6 +68,8 @@ You can use the **Logging database changes** wizard to set up database logging. 
 
 You can delete database logs as required. You can delete logs for specific tables, delete specific types of database logs, or delete logs based on the date and time when they were created.
 
+Enableing the feature **Database log clean up** will help to show database log cleanup reminder when configuring database logging
+
 > [!NOTE]
 > Records that have been electronically signed can't be deleted from logs.
 
